@@ -9,3 +9,4 @@ client.once(Events.ClientReady, c => {
 });
 
 client.login(token);
+// tr
