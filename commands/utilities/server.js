@@ -8,4 +8,3 @@ module.exports = {
         await interaction.reply({ content: `Server name: ${interaction.guild.name}\nTotal members: ${interaction.guild.memberCount}` });
     }
 };
-kkkk
