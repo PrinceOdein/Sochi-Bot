@@ -8,4 +8,3 @@ module.exports = {
         await interaction.reply('Pong!');
     },
 };
-// 55
