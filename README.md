@@ -1,3 +1,3 @@
 # Sochi Bot
 # Description
-This is a Discord bot
+This is a just a test Discord bot for future servers
